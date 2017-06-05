@@ -1,2 +1,7 @@
-╡Бйт ╣зр╩╢н
-╡Бйт222222222
+<?php
+ header("Content-type:text/html;chaset=utf-8");
+Г╛╛Д╦┴Ф√╧
+zzzzzzzzz
+122222222223
+
+?>
